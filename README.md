@@ -157,33 +157,11 @@ Korelasi positif antara waktu belajar dan IPK terhadap kelulusan.
 
 Fitur baru (Rasio_Absensi dan IPK_x_Study) bisa meningkatkan akurasi model.
 
-☁️ Cara Upload ke GitHub
-
-Buat repository baru di GitHub: kelulusan_mahasiswa
-
-Jalankan perintah di terminal:
-
-git init
-git add .
-git commit -m "Analisis Kelulusan Mahasiswa - Full Tutorial"
-git branch -M main
-git remote add origin https://github.com/username/kelulusan_mahasiswa.git
-git push -u origin main
-
-
-Refresh GitHub — file README.md, analisis_kelulusan.ipynb, dan dataset akan muncul rapi.
-
 🧰 Troubleshooting
 Masalah	Solusi
 pip not recognized	Pastikan Python & pip sudah diatur di PATH
 ModuleNotFoundError	Jalankan pip install -r requirements.txt
 Grafik tidak muncul di Colab	Tambahkan %matplotlib inline di awal notebook
 File CSV tidak ditemukan	Pastikan file berada di folder yang sama dengan notebook
-👨‍💻 Identitas
 
-Nama: Muhamad Ropik
-Kelas: 045TPLE
-Mata Kuliah: Analisis Data / Machine Learning Dasar
-Pertemuan: 4
-Kampus: Universitas Pamulang
 
