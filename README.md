@@ -43,11 +43,14 @@ Data mencakup IPK, absensi, waktu belajar, dan status kelulusan.
 ### 1️⃣ Install Python
 Pastikan sudah menginstal **Python 3.8 atau lebih baru**.  
 Cek versi dengan:
-```bash
+```
 python --version
 Kalau belum ada, download di:
 🔗 https://www.python.org/downloads/
+```
+
 🚀 Cara Menjalankan Proyek
+```
 
 Kamu bisa menjalankan proyek ini dengan dua cara:
 via Jupyter Notebook (offline) atau Google Colab (online).
@@ -62,8 +65,10 @@ jupyter notebook analisis_kelulusan.ipynb
 
 
 Browser akan terbuka otomatis, dan kamu bisa mulai menekan tombol Run All.
+```
 
 ☁️ Opsi 2 — Jalankan di Google Colab
+```
 
 Buka https://colab.research.google.com/
 
@@ -76,6 +81,7 @@ kelulusan_mahasiswa.csv
 Setelah file terbuka, pilih menu Runtime → Run all
 
 Semua proses otomatis dijalankan, hasil dan grafik langsung muncul.
+```
 
 🧩 Penjelasan Notebook
 🧾 1. Data Collection
